@@ -1,2 +1,2 @@
 # NBA
-Web-scraping script that exports KPI's into CSVs
+Web-scraping script that leverages 13 different external data sources by extrapolating different KPI's into unique CSVs
