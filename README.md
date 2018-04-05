@@ -1,2 +1,2 @@
 # NBA
-Web-scraping script that leverages 13 different external data sources by extrapolating different KPI's into unique CSVs
+If you're an avid basketball fan, then this is a great place to get started. With this script, you're able to pull from 13 different external data sources that allow you to hone in on different factors that affect season long performance in an NBA season. Although this script provides plenty of information in the forms of different CSVs, it's important to recognize that these are only high level overviews that have no value unless analyzed further outside of the script independently.  
